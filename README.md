@@ -9,7 +9,7 @@ Link Download Dataset: https://drive.google.com/file/d/1T3xvY-mR6_awNI_FQiedRXGx
 Enviroment: Google Colab / Jupyter Notebook
 Libraries: Pandas (Data manipulation), Scikit-Learn (Preprocessing & Splitting), Seaborn/Matplotlib (Visualisasi).
 
-Fokus tahap ini: Audit & Preparation
+Fokus tahap ini: Audit & Preparation 
 A. Inti Audit (Menjamin Kualitas)
 1. Status Data: 100% Bersih (Tanpa missing values atau duplikat).
 2. Analisis Target: Harga rumah (Price) terdistribusi normal/seimbang (Skewness -0.06), sehingga model tidak akan bias.
