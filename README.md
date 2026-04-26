@@ -75,3 +75,6 @@ Cara Menjalankan Evaluasi:
 
 ---
 *💡 Repository ini disusun untuk menunjukkan alur kerja end-to-end Data Science, mulai dari pembersihan data hingga diagnosa model secara kritis dan analitis.*
+
+**Disusun oleh:** **Frengki Saputra** | 23SA21A074  
+Program Studi Sistem Informasi – Universitas Amikom Purwokerto
